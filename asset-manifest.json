@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/football-legends/static/css/main.59dde3d8.css",
+    "main.js": "/football-legends/static/js/main.c5b1cdee.js",
+    "static/media/bg-image.jpg": "/football-legends/static/media/bg-image.865df7f8a270d7c5df3b.jpg",
+    "static/media/logo.png": "/football-legends/static/media/logo.b917e3d53f8bec39d488.png",
+    "index.html": "/football-legends/index.html",
+    "main.59dde3d8.css.map": "/football-legends/static/css/main.59dde3d8.css.map",
+    "main.c5b1cdee.js.map": "/football-legends/static/js/main.c5b1cdee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59dde3d8.css",
+    "static/js/main.c5b1cdee.js"
+  ]
+}
